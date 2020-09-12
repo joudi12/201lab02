@@ -40,3 +40,9 @@ body{
     padding: 5px;
 
 }
+
+
+ .boklist, #booklist {
+    font-family: sans-serif;
+    border: 2px #FDA6D6 solid ;
+}
